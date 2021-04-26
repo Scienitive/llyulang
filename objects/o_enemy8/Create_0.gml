@@ -1,0 +1,17 @@
+image_speed = 0;
+spd = 8;
+enemy_active = false;
+enemy_attack = false;
+enemy_attack_cooldown_max = room_speed * 2;
+enemy_attack_cooldown = 0;
+hsp = 0;
+vsp = 0;
+grv = 1;
+default_x_scale = 3;
+scr = 200;
+killed = false;
+blood_timer = 0;
+mesafe = 32 * 14
+frict = 1.1;
+turn_spd = 40;
+enemy_activator = false;

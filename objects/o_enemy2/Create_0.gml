@@ -1,0 +1,16 @@
+image_speed = 0;
+hsp = 6;
+vsp = 2;
+max_x = 912;
+min_x = 48;
+sapma_y = 32;
+default_y = y;
+enemy_active = false;
+enemy_attack = false;
+enemy_attack_cooldown_max = room_speed * 2;
+enemy_attack_cooldown = 0;
+default_x_scale = 4;
+scr = 200;
+killed = false;
+blood_timer = 0;
+turn_spd = 40;
